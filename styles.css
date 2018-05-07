@@ -10,8 +10,15 @@ body {
   justify-content: space-between;
 }
 
-.title {
+.title,
+.body,
+.link {
+  color: #222;
   font-family: Archivo Narrow;
+}
+
+.body {
+  margin: 0;
 }
 
 .image {
