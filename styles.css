@@ -10,6 +10,10 @@ body {
   justify-content: space-between;
 }
 
+.title {
+  font-family: Archivo Narrow;
+}
+
 .image {
   display: block;
   height: 100%;
